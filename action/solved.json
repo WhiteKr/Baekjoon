@@ -350,5 +350,29 @@
         "codes": [
             "src/8/8958.kt"
         ]
+    },
+    {
+        "id": 9498,
+        "title": "시험 성적",
+        "level": 2,
+        "codes": [
+            "src/9/9498.cpp"
+        ]
+    },
+    {
+        "id": 9524,
+        "title": "Beautiful Yekaterinburg",
+        "level": 0,
+        "codes": [
+            "src/9/9524.kt"
+        ]
+    },
+    {
+        "id": 9653,
+        "title": "스타워즈 로고",
+        "level": 1,
+        "codes": [
+            "src/9/9653.kt"
+        ]
     }
 ]

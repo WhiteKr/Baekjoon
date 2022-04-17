@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (44문제)
+## 문제 풀이 현황 (47문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,21 +15,21 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>35</td>
-        <td>578</td>
-        <td>14.64 kB</td>
+        <td>37</td>
+        <td>597</td>
+        <td>15.13 kB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>9</td>
-        <td>160</td>
-        <td>2.41 kB</td>
+        <td>10</td>
+        <td>172</td>
+        <td>2.66 kB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>44</td>
-        <td>738</td>
-        <td>17.05 kB</td>
+        <td>47</td>
+        <td>769</td>
+        <td>17.78 kB</td>
     </tr>
 </table>
 
@@ -565,6 +565,42 @@
         <td>
             <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
             <a href="src/8/8958.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9498">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                9498 시험 성적
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/9/9498.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9524">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                9524 Beautiful Yekaterinburg
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/9/9524.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9653">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                9653 스타워즈 로고
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/9/9653.kt">Kotlin</a>
         </td>
     </tr>
 </table>
