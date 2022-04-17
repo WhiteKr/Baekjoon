@@ -1,22 +1,22 @@
-const { promisify } = require('util');
-const chalk         = require('chalk');
-const request       = promisify(require('request'));
-const cheerio       = require('cheerio');
-const glob          = require('fast-glob');
-const fs            = require('fs');
-const filesize      = require('filesize');
-const nf            = new Intl.NumberFormat();
-const path          = require('path');
-const exec          = promisify(require('child_process').exec);
-const rgx_id        = /\d+/;
-const argv          = process.argv.slice(2).map(a => a.match(rgx_id)[0]);
-const URL           = 'https://solved.ac/search?query=';
-const saveFile      = './solved.json';
-const list          = require(saveFile);
-const LANG          = require('./langs.json');
-const COLOR         = require('./colors.json');
+import { promisify } from 'util';
+import { red, yellow, white, green } from 'chalk';
+const request = promisify(require('request'));
+import { load } from 'cheerio';
+import { sync } from 'fast-glob';
+import { writeFileSync, readFileSync } from 'fs';
+import filesize from 'filesize';
+const nf = new Intl.NumberFormat();
+import { extname } from 'path';
+const exec = promisify(require('child_process').exec);
+const rgx_id = /\d+/;
+const argv = process.argv.slice(2).map(a => a.match(rgx_id)[0]);
+const URL = 'https://solved.ac/search?query=';
+const saveFile = './solved.json';
+const list = require(saveFile);
+import LANG from './langs.json';
+import COLOR from './colors.json';
 
-function main() {
+async function main() {
     let promises = [],
         ids = [...new Set(argv)];
 
@@ -24,17 +24,15 @@ function main() {
         promises.push(getInfo(id));
     }
 
-    return Promise.all(promises)
-        .then(() => {
-            list.sort((a, b) => a.id - b.id);
-            updateReadme(list);
-            fs.writeFileSync(saveFile, JSON.stringify(list, null, 4));
-        });
+    await Promise.all(promises);
+    list.sort((a, b) => a.id - b.id);
+    updateReadme(list);
+    writeFileSync(saveFile, JSON.stringify(list, null, 4));
 }
 
 async function getInfo(id) {
     let { body } = await request(URL + id),
-        $ = cheerio.load(body),
+        $ = load(body),
         problems = JSON.parse($('#__NEXT_DATA__').html()).props.pageProps.problems.items,
         { problemId, titleKo, level } = problems.find(p => p.problemId === +id);
 
@@ -44,36 +42,36 @@ async function getInfo(id) {
 function saveInfo(id, title, level) {
     let sid = String(id),
         folder = sid.substr(0, sid.length - 3),
-        codes = glob.sync(`src/${folder}/${id}.*`, { cwd: '..' }),
+        codes = sync(`src/${folder}/${id}.*`, { cwd: '..' }),
         info = { id, title, level, codes },
         i = list.findIndex(p => p.id === +id);
 
     if (i !== -1) {
         if (codes.length < 1) {
             list.splice(i, 1);
-            console.log(chalk.red(`[Deleted] ${id}. ${title}`));
+            console.log(red(`[Deleted] ${id}. ${title}`));
         } else if (JSON.stringify(list[i]) !== JSON.stringify(info)) {
             list[i] = info;
 
-            console.log(chalk.yellow(`[Updated] ${id}. ${title}`));
+            console.log(yellow(`[Updated] ${id}. ${title}`));
         } else {
-            console.log(chalk.white(`[Duplicated] ${id}. ${title}`));
+            console.log(white(`[Duplicated] ${id}. ${title}`));
         }
     } else {
         list.push(info);
-        console.log(chalk.green(`[Added] ${id}. ${title}`));
+        console.log(green(`[Added] ${id}. ${title}`));
     }
 }
 
 async function updateReadme(list) {
-    let readme = fs.readFileSync('README.template.md', 'utf-8'),
+    let readme = readFileSync('README.template.md', 'utf-8'),
         total = 0,
         langs = [],
         langsMarkdown = [];
 
     list.forEach(p => {
         p.codes.forEach(code => {
-            let ext = LANG[path.extname(code).substr(1)],
+            let ext = LANG[extname(code).substr(1)],
                 target = langs.find(lang => lang.name === ext);
 
             if (!target) {
@@ -127,7 +125,7 @@ async function updateReadme(list) {
 
     let codesMarkdown = list.map(p => {
         let codes = p.codes.map(code => {
-            let lang = LANG[path.extname(code).substr(1)],
+            let lang = LANG[extname(code).substr(1)],
                 color = COLOR[lang].replace('#', '') || 'EDEDED';
 
             return `
@@ -153,7 +151,7 @@ async function updateReadme(list) {
         .replace('${{LANGUAGES}}', langsMarkdown.join('').trim())
         .replace('${{SOLVED}}', codesMarkdown.join('').trim());
 
-    fs.writeFileSync('../README.md', readme);
+    writeFileSync('../README.md', readme);
 }
 
 main();
