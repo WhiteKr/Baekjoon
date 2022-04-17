@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (37문제)
+## 문제 풀이 현황 (44문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>28</td>
-        <td>505</td>
-        <td>12.8 kB</td>
+        <td>35</td>
+        <td>578</td>
+        <td>14.64 kB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>37</td>
-        <td>665</td>
-        <td>15.21 kB</td>
+        <td>44</td>
+        <td>738</td>
+        <td>17.05 kB</td>
     </tr>
 </table>
 
@@ -481,6 +481,90 @@
         <td>
             <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
             <a href="src/2/2920.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/3052">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                3052 나머지
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/3/3052.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5337">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                5337 웰컴
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/5/5337.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5338">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                5338 마이크로소프트 로고
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/5/5338.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5585">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                5585 거스름돈
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/5/5585.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5622">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                5622 다이얼
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/5/5622.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/8393">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                8393 합
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/8/8393.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/8958">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                8958 OX퀴즈
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/8/8958.kt">Kotlin</a>
         </td>
     </tr>
 </table>

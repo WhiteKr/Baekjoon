@@ -294,5 +294,61 @@
         "codes": [
             "src/2/2920.kt"
         ]
+    },
+    {
+        "id": 3052,
+        "title": "나머지",
+        "level": 4,
+        "codes": [
+            "src/3/3052.kt"
+        ]
+    },
+    {
+        "id": 5337,
+        "title": "웰컴",
+        "level": 1,
+        "codes": [
+            "src/5/5337.kt"
+        ]
+    },
+    {
+        "id": 5338,
+        "title": "마이크로소프트 로고",
+        "level": 1,
+        "codes": [
+            "src/5/5338.kt"
+        ]
+    },
+    {
+        "id": 5585,
+        "title": "거스름돈",
+        "level": 4,
+        "codes": [
+            "src/5/5585.kt"
+        ]
+    },
+    {
+        "id": 5622,
+        "title": "다이얼",
+        "level": 4,
+        "codes": [
+            "src/5/5622.kt"
+        ]
+    },
+    {
+        "id": 8393,
+        "title": "합",
+        "level": 3,
+        "codes": [
+            "src/8/8393.kt"
+        ]
+    },
+    {
+        "id": 8958,
+        "title": "OX퀴즈",
+        "level": 4,
+        "codes": [
+            "src/8/8958.kt"
+        ]
     }
 ]
