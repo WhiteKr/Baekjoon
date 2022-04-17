@@ -126,5 +126,173 @@
         "codes": [
             "src/1/1966.kt"
         ]
+    },
+    {
+        "id": 2438,
+        "title": "별 찍기 - 1",
+        "level": 3,
+        "codes": [
+            "src/2/2438.cpp"
+        ]
+    },
+    {
+        "id": 2439,
+        "title": "별 찍기 - 2",
+        "level": 3,
+        "codes": [
+            "src/2/2439.kt"
+        ]
+    },
+    {
+        "id": 2475,
+        "title": "검증수",
+        "level": 1,
+        "codes": [
+            "src/2/2475.kt"
+        ]
+    },
+    {
+        "id": 2556,
+        "title": "별 찍기 - 14",
+        "level": 0,
+        "codes": [
+            "src/2/2556.kt"
+        ]
+    },
+    {
+        "id": 2557,
+        "title": "Hello World",
+        "level": 1,
+        "codes": [
+            "src/2/2557.cpp"
+        ]
+    },
+    {
+        "id": 2558,
+        "title": "A+B - 2",
+        "level": 1,
+        "codes": [
+            "src/2/2558.kt"
+        ]
+    },
+    {
+        "id": 2562,
+        "title": "최댓값",
+        "level": 4,
+        "codes": [
+            "src/2/2562.kt"
+        ]
+    },
+    {
+        "id": 2577,
+        "title": "숫자의 개수",
+        "level": 4,
+        "codes": [
+            "src/2/2577.kt"
+        ]
+    },
+    {
+        "id": 2675,
+        "title": "문자열 반복",
+        "level": 4,
+        "codes": [
+            "src/2/2675.kt"
+        ]
+    },
+    {
+        "id": 2739,
+        "title": "구구단",
+        "level": 3,
+        "codes": [
+            "src/2/2739.kt"
+        ]
+    },
+    {
+        "id": 2741,
+        "title": "N 찍기",
+        "level": 3,
+        "codes": [
+            "src/2/2741.kt"
+        ]
+    },
+    {
+        "id": 2742,
+        "title": "기찍 N",
+        "level": 3,
+        "codes": [
+            "src/2/2742.kt"
+        ]
+    },
+    {
+        "id": 2750,
+        "title": "수 정렬하기",
+        "level": 5,
+        "codes": [
+            "src/2/2750.kt"
+        ]
+    },
+    {
+        "id": 2751,
+        "title": "수 정렬하기 2",
+        "level": 6,
+        "codes": [
+            "src/2/2751.kt"
+        ]
+    },
+    {
+        "id": 2753,
+        "title": "윤년",
+        "level": 2,
+        "codes": [
+            "src/2/2753.cpp"
+        ]
+    },
+    {
+        "id": 2798,
+        "title": "블랙잭",
+        "level": 4,
+        "codes": [
+            "src/2/2798.kt"
+        ]
+    },
+    {
+        "id": 2839,
+        "title": "설탕 배달",
+        "level": 5,
+        "codes": [
+            "src/2/2839.cpp"
+        ]
+    },
+    {
+        "id": 2845,
+        "title": "파티가 끝나고 난 뒤",
+        "level": 1,
+        "codes": [
+            "src/2/2845.kt"
+        ]
+    },
+    {
+        "id": 2884,
+        "title": "알람 시계",
+        "level": 3,
+        "codes": [
+            "src/2/2884.cpp"
+        ]
+    },
+    {
+        "id": 2908,
+        "title": "상수",
+        "level": 4,
+        "codes": [
+            "src/2/2908.kt"
+        ]
+    },
+    {
+        "id": 2920,
+        "title": "음계",
+        "level": 4,
+        "codes": [
+            "src/2/2920.kt"
+        ]
     }
 ]

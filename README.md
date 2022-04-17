@@ -1,9 +1,9 @@
 # Baekjoon
 백준 알고리즘 문제 풀기!
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (16문제)
+## 문제 풀이 현황 (37문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,21 +15,21 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>12</td>
-        <td>273</td>
-        <td>7.17 kB</td>
+        <td>28</td>
+        <td>505</td>
+        <td>12.8 kB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>4</td>
-        <td>70</td>
-        <td>1.17 kB</td>
+        <td>9</td>
+        <td>160</td>
+        <td>2.41 kB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>16</td>
-        <td>343</td>
-        <td>8.34 kB</td>
+        <td>37</td>
+        <td>665</td>
+        <td>15.21 kB</td>
     </tr>
 </table>
 
@@ -229,6 +229,258 @@
         <td>
             <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
             <a href="src/1/1966.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2438">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                2438 별 찍기 - 1
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/2/2438.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2439">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                2439 별 찍기 - 2
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2439.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2475">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                2475 검증수
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2475.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2556">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                2556 별 찍기 - 14
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2556.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2557">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                2557 Hello World
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/2/2557.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2558">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                2558 A+B - 2
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2558.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2562">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                2562 최댓값
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2562.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2577">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                2577 숫자의 개수
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2577.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2675">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                2675 문자열 반복
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2675.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2739">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                2739 구구단
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2739.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2741">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                2741 N 찍기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2741.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2742">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                2742 기찍 N
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2742.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2750">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                2750 수 정렬하기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2750.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2751">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                2751 수 정렬하기 2
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2751.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2753">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                2753 윤년
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/2/2753.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2798">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                2798 블랙잭
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2798.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2839">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                2839 설탕 배달
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/2/2839.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2845">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                2845 파티가 끝나고 난 뒤
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2845.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2884">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                2884 알람 시계
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/2/2884.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2908">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                2908 상수
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2908.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2920">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                2920 음계
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2920.kt">Kotlin</a>
         </td>
     </tr>
 </table>
