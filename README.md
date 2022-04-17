@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (70문제)
+## 문제 풀이 현황 (82문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>53</td>
-        <td>791</td>
-        <td>20.67 kB</td>
+        <td>64</td>
+        <td>864</td>
+        <td>22.81 kB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
@@ -26,10 +26,22 @@
         <td>3.62 kB</td>
     </tr>
     <tr>
+        <td><b>Python</b></td>
+        <td>1</td>
+        <td>10</td>
+        <td>181 B</td>
+    </tr>
+    <tr>
+        <td><b>Java</b></td>
+        <td>1</td>
+        <td>7</td>
+        <td>161 B</td>
+    </tr>
+    <tr>
         <td><b>Total</b></td>
-        <td>70</td>
-        <td>1,006</td>
-        <td>24.3 kB</td>
+        <td>83</td>
+        <td>1,096</td>
+        <td>26.78 kB</td>
     </tr>
 </table>
 
@@ -877,6 +889,153 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10998.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11021">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                11021 A+B - 7
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/11/11021.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11022">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                11022 A+B - 8
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/11/11022.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11050">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                11050 이항 계수 1
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/11/11050.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11654">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                11654 아스키 코드
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/11/11654.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11720">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                11720 숫자의 합
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/11/11720.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14681">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                14681 사분면 고르기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/14/14681.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14918">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                14918 더하기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/14/14918.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15596">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                15596 정수 N개의 합
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/15/15596.java">Java</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15802">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                15802 타노스
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/15/15802.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15962">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                15962 새로운 시작
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/15/15962.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15964">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                15964 이상한 기호
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/15/15964.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/18108">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                18108 1998년생인 내가 태국에서는 2541년생?!
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/18/18108.kt">Kotlin</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
+            <a href="src/18/18108.py">Python</a>
         </td>
     </tr>
 </table>
