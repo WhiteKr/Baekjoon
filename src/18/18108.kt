@@ -1,3 +1,3 @@
 import java.util.*
 
-fun main() = with(Scanner(System.`in`)) { print(nextInt() - 543) }
+fun main() = with(Scanner(System.`in`)) { print(nextInt() - 543) } 
