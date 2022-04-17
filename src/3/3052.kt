@@ -1,1 +1,0 @@
-fun main() = print(IntArray(10).map { readLine()!!.toInt() % 42 }.toSet().size)
