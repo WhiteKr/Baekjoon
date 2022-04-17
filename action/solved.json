@@ -374,5 +374,189 @@
         "codes": [
             "src/9/9653.kt"
         ]
+    },
+    {
+        "id": 10171,
+        "title": "고양이",
+        "level": 1,
+        "codes": [
+            "src/10/10171.cpp"
+        ]
+    },
+    {
+        "id": 10172,
+        "title": "개",
+        "level": 1,
+        "codes": [
+            "src/10/10172.cpp"
+        ]
+    },
+    {
+        "id": 10250,
+        "title": "ACM 호텔",
+        "level": 3,
+        "codes": [
+            "src/10/10250.kt"
+        ]
+    },
+    {
+        "id": 10430,
+        "title": "나머지",
+        "level": 1,
+        "codes": [
+            "src/10/10430.cpp"
+        ]
+    },
+    {
+        "id": 10718,
+        "title": "We love kriii",
+        "level": 1,
+        "codes": [
+            "src/10/10718.cpp"
+        ]
+    },
+    {
+        "id": 10808,
+        "title": "알파벳 개수",
+        "level": 4,
+        "codes": [
+            "src/10/10808.kt"
+        ]
+    },
+    {
+        "id": 10809,
+        "title": "알파벳 찾기",
+        "level": 4,
+        "codes": [
+            "src/10/10809.kt"
+        ]
+    },
+    {
+        "id": 10818,
+        "title": "최소, 최대",
+        "level": 3,
+        "codes": [
+            "src/10/10818.kt"
+        ]
+    },
+    {
+        "id": 10869,
+        "title": "사칙연산",
+        "level": 1,
+        "codes": [
+            "src/10/10869.cpp"
+        ]
+    },
+    {
+        "id": 10871,
+        "title": "X보다 작은 수",
+        "level": 3,
+        "codes": [
+            "src/10/10871.cpp"
+        ]
+    },
+    {
+        "id": 10872,
+        "title": "팩토리얼",
+        "level": 3,
+        "codes": [
+            "src/10/10872.kt"
+        ]
+    },
+    {
+        "id": 10926,
+        "title": "??!",
+        "level": 1,
+        "codes": [
+            "src/10/10926.kt"
+        ]
+    },
+    {
+        "id": 10927,
+        "title": "MD5",
+        "level": 0,
+        "codes": [
+            "src/10/10927.kt"
+        ]
+    },
+    {
+        "id": 10928,
+        "title": "SHA-1",
+        "level": 0,
+        "codes": [
+            "src/10/10928.kt"
+        ]
+    },
+    {
+        "id": 10929,
+        "title": "SHA-224",
+        "level": 0,
+        "codes": [
+            "src/10/10929.kt"
+        ]
+    },
+    {
+        "id": 10930,
+        "title": "SHA-256",
+        "level": 0,
+        "codes": [
+            "src/10/10930.kt"
+        ]
+    },
+    {
+        "id": 10931,
+        "title": "SHA-384",
+        "level": 0,
+        "codes": [
+            "src/10/10931.kt"
+        ]
+    },
+    {
+        "id": 10932,
+        "title": "SHA-512",
+        "level": 0,
+        "codes": [
+            "src/10/10932.kt"
+        ]
+    },
+    {
+        "id": 10950,
+        "title": "A+B - 3",
+        "level": 3,
+        "codes": [
+            "src/10/10950.kt"
+        ]
+    },
+    {
+        "id": 10951,
+        "title": "A+B - 4",
+        "level": 3,
+        "codes": [
+            "src/10/10951.kt"
+        ]
+    },
+    {
+        "id": 10952,
+        "title": "A+B - 5",
+        "level": 3,
+        "codes": [
+            "src/10/10952.kt"
+        ]
+    },
+    {
+        "id": 10989,
+        "title": "수 정렬하기 3",
+        "level": 6,
+        "codes": [
+            "src/10/10989.kt"
+        ]
+    },
+    {
+        "id": 10998,
+        "title": "A×B",
+        "level": 1,
+        "codes": [
+            "src/10/10998.cpp"
+        ]
     }
 ]

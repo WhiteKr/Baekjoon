@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (47문제)
+## 문제 풀이 현황 (70문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,21 +15,21 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>37</td>
-        <td>597</td>
-        <td>15.13 kB</td>
+        <td>53</td>
+        <td>791</td>
+        <td>20.67 kB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>10</td>
-        <td>172</td>
-        <td>2.66 kB</td>
+        <td>17</td>
+        <td>215</td>
+        <td>3.62 kB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>47</td>
-        <td>769</td>
-        <td>17.78 kB</td>
+        <td>70</td>
+        <td>1,006</td>
+        <td>24.3 kB</td>
     </tr>
 </table>
 
@@ -601,6 +601,282 @@
         <td>
             <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
             <a href="src/9/9653.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10171">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                10171 고양이
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/10/10171.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10172">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                10172 개
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/10/10172.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10250">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                10250 ACM 호텔
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10250.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10430">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                10430 나머지
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/10/10430.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10718">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                10718 We love kriii
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/10/10718.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10808">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                10808 알파벳 개수
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10808.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10809">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                10809 알파벳 찾기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10809.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10818">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                10818 최소, 최대
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10818.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10869">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                10869 사칙연산
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/10/10869.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10871">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                10871 X보다 작은 수
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/10/10871.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10872">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                10872 팩토리얼
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10872.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10926">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                10926 ??!
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10926.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10927">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                10927 MD5
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10927.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10928">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                10928 SHA-1
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10928.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10929">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                10929 SHA-224
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10929.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10930">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                10930 SHA-256
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10930.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10931">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                10931 SHA-384
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10931.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10932">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                10932 SHA-512
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10932.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10950">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                10950 A+B - 3
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10950.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10951">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                10951 A+B - 4
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10951.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10952">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                10952 A+B - 5
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10952.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10989">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                10989 수 정렬하기 3
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10989.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10998">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                10998 A×B
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/10/10998.cpp">C++</a>
         </td>
     </tr>
 </table>
