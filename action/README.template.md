@@ -1,7 +1,7 @@
 # Baekjoon
 백준 알고리즘 문제 풀기!
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
 ## 문제 풀이 현황 (${{TOTAL}}문제)
 
